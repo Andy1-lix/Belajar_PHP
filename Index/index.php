@@ -1,7 +1,3 @@
 <?php 
-$angka = 100;
-var_dump($angka);
-echo "<br>";
-$strangka = (string) $angka;
-var_dump($strangka);
+var_dump(15 > 10);
 ?>
