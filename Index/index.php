@@ -1,4 +1,7 @@
-<?php
+<?php 
 $angka = 100;
-echo "Fadhil Mendapat Nilai $angka Dalam Pemrograman ";
+var_dump($angka);
+echo "<br>";
+$strangka = (string) $angka;
+var_dump($strangka);
 ?>
