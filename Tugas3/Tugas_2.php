@@ -7,7 +7,4 @@ $total_bunga = $bunga*  100;
 
 $total_semua = $total_tabungan - $total_bunga;
 echo "Total Tabungan Dalam Setahun Rp.$total_semua";
-
-
-
 ?>
